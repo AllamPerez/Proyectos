@@ -1,0 +1,11 @@
+C:\Users\allam\OneDrive\Desktop\Proyecto Programacion visual\trabajo C# semana 1 ejercicio 1\bin\Debug\trabajo C# semana 1 ejercicio 1.exe.config
+C:\Users\allam\OneDrive\Desktop\Proyecto Programacion visual\trabajo C# semana 1 ejercicio 1\bin\Debug\trabajo C# semana 1 ejercicio 1.exe
+C:\Users\allam\OneDrive\Desktop\Proyecto Programacion visual\trabajo C# semana 1 ejercicio 1\bin\Debug\trabajo C# semana 1 ejercicio 1.pdb
+C:\Users\allam\OneDrive\Desktop\Proyecto Programacion visual\trabajo C# semana 1 ejercicio 1\obj\Debug\Proyecto Programacion visual.csproj.AssemblyReference.cache
+C:\Users\allam\OneDrive\Desktop\Proyecto Programacion visual\trabajo C# semana 1 ejercicio 1\obj\Debug\trabajo C# semana 1 ejercicio 1.exe.config
+C:\Users\allam\OneDrive\Desktop\Proyecto Programacion visual\trabajo C# semana 1 ejercicio 1\obj\Debug\Proyecto_Programacion_visual.Form1.resources
+C:\Users\allam\OneDrive\Desktop\Proyecto Programacion visual\trabajo C# semana 1 ejercicio 1\obj\Debug\trabajo_C__semana_1_ejercicio_1.Properties.Resources.resources
+C:\Users\allam\OneDrive\Desktop\Proyecto Programacion visual\trabajo C# semana 1 ejercicio 1\obj\Debug\Proyecto Programacion visual.csproj.GenerateResource.cache
+C:\Users\allam\OneDrive\Desktop\Proyecto Programacion visual\trabajo C# semana 1 ejercicio 1\obj\Debug\Proyecto Programacion visual.csproj.CoreCompileInputs.cache
+C:\Users\allam\OneDrive\Desktop\Proyecto Programacion visual\trabajo C# semana 1 ejercicio 1\obj\Debug\trabajo C# semana 1 ejercicio 1.exe
+C:\Users\allam\OneDrive\Desktop\Proyecto Programacion visual\trabajo C# semana 1 ejercicio 1\obj\Debug\trabajo C# semana 1 ejercicio 1.pdb
