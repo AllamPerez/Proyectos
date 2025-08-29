@@ -1,0 +1,32 @@
+C:\Users\eduar\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\eduar\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\eduar\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\eduar\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\eduar\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\eduar\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\eduar\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\eduar\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\allam\OneDrive\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\allam\OneDrive\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\allam\OneDrive\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\allam\OneDrive\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\allam\OneDrive\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.exe.config
+C:\Users\allam\OneDrive\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\allam\OneDrive\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\allam\OneDrive\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\allam\OneDrive\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\allam\OneDrive\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\allam\OneDrive\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\allam\OneDrive\Desktop\Proyectos General pv\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\allam\OneDrive\Desktop\Proyectos General pv\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\allam\OneDrive\Desktop\Proyectos General pv\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\allam\OneDrive\Desktop\Proyectos General pv\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\allam\OneDrive\Desktop\Proyectos General pv\Calculadora\Calculadora\obj\Debug\Calculadora.exe.config
+C:\Users\allam\OneDrive\Desktop\Proyectos General pv\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\allam\OneDrive\Desktop\Proyectos General pv\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\allam\OneDrive\Desktop\Proyectos General pv\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\allam\OneDrive\Desktop\Proyectos General pv\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\allam\OneDrive\Desktop\Proyectos General pv\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\allam\OneDrive\Desktop\Proyectos General pv\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
