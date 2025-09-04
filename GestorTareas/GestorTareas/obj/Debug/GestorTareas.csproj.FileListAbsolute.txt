@@ -1,0 +1,32 @@
+C:\Users\eduar\Downloads\Programacion visual\GestorTareas\GestorTareas\bin\Debug\GestorTareas.exe.config
+C:\Users\eduar\Downloads\Programacion visual\GestorTareas\GestorTareas\bin\Debug\GestorTareas.exe
+C:\Users\eduar\Downloads\Programacion visual\GestorTareas\GestorTareas\bin\Debug\GestorTareas.pdb
+C:\Users\eduar\Downloads\Programacion visual\GestorTareas\GestorTareas\obj\Debug\GestorTareas.csproj.AssemblyReference.cache
+C:\Users\eduar\Downloads\Programacion visual\GestorTareas\GestorTareas\obj\Debug\GestorTareas.Form1.resources
+C:\Users\eduar\Downloads\Programacion visual\GestorTareas\GestorTareas\obj\Debug\GestorTareas.Properties.Resources.resources
+C:\Users\eduar\Downloads\Programacion visual\GestorTareas\GestorTareas\obj\Debug\GestorTareas.csproj.GenerateResource.cache
+C:\Users\eduar\Downloads\Programacion visual\GestorTareas\GestorTareas\obj\Debug\GestorTareas.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Downloads\Programacion visual\GestorTareas\GestorTareas\obj\Debug\GestorTareas.exe
+C:\Users\eduar\Downloads\Programacion visual\GestorTareas\GestorTareas\obj\Debug\GestorTareas.pdb
+C:\Users\rannd\OneDrive\Escritorio\GestorTareas\GestorTareas\GestorTareas\bin\Debug\GestorTareas.exe.config
+C:\Users\rannd\OneDrive\Escritorio\GestorTareas\GestorTareas\GestorTareas\bin\Debug\GestorTareas.exe
+C:\Users\rannd\OneDrive\Escritorio\GestorTareas\GestorTareas\GestorTareas\bin\Debug\GestorTareas.pdb
+C:\Users\rannd\OneDrive\Escritorio\GestorTareas\GestorTareas\GestorTareas\obj\Debug\GestorTareas.csproj.AssemblyReference.cache
+C:\Users\rannd\OneDrive\Escritorio\GestorTareas\GestorTareas\GestorTareas\obj\Debug\GestorTareas.exe.config
+C:\Users\rannd\OneDrive\Escritorio\GestorTareas\GestorTareas\GestorTareas\obj\Debug\GestorTareas.Form1.resources
+C:\Users\rannd\OneDrive\Escritorio\GestorTareas\GestorTareas\GestorTareas\obj\Debug\GestorTareas.Properties.Resources.resources
+C:\Users\rannd\OneDrive\Escritorio\GestorTareas\GestorTareas\GestorTareas\obj\Debug\GestorTareas.csproj.GenerateResource.cache
+C:\Users\rannd\OneDrive\Escritorio\GestorTareas\GestorTareas\GestorTareas\obj\Debug\GestorTareas.csproj.CoreCompileInputs.cache
+C:\Users\rannd\OneDrive\Escritorio\GestorTareas\GestorTareas\GestorTareas\obj\Debug\GestorTareas.exe
+C:\Users\rannd\OneDrive\Escritorio\GestorTareas\GestorTareas\GestorTareas\obj\Debug\GestorTareas.pdb
+C:\Users\allam\OneDrive\Desktop\GestorTareas\GestorTareas\GestorTareas\bin\Debug\GestorTareas.exe.config
+C:\Users\allam\OneDrive\Desktop\GestorTareas\GestorTareas\GestorTareas\bin\Debug\GestorTareas.exe
+C:\Users\allam\OneDrive\Desktop\GestorTareas\GestorTareas\GestorTareas\bin\Debug\GestorTareas.pdb
+C:\Users\allam\OneDrive\Desktop\GestorTareas\GestorTareas\GestorTareas\obj\Debug\GestorTareas.csproj.AssemblyReference.cache
+C:\Users\allam\OneDrive\Desktop\GestorTareas\GestorTareas\GestorTareas\obj\Debug\GestorTareas.exe.config
+C:\Users\allam\OneDrive\Desktop\GestorTareas\GestorTareas\GestorTareas\obj\Debug\GestorTareas.Form1.resources
+C:\Users\allam\OneDrive\Desktop\GestorTareas\GestorTareas\GestorTareas\obj\Debug\GestorTareas.Properties.Resources.resources
+C:\Users\allam\OneDrive\Desktop\GestorTareas\GestorTareas\GestorTareas\obj\Debug\GestorTareas.csproj.GenerateResource.cache
+C:\Users\allam\OneDrive\Desktop\GestorTareas\GestorTareas\GestorTareas\obj\Debug\GestorTareas.csproj.CoreCompileInputs.cache
+C:\Users\allam\OneDrive\Desktop\GestorTareas\GestorTareas\GestorTareas\obj\Debug\GestorTareas.exe
+C:\Users\allam\OneDrive\Desktop\GestorTareas\GestorTareas\GestorTareas\obj\Debug\GestorTareas.pdb
